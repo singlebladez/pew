@@ -26,4 +26,4 @@ local oldHttp; oldHttp = hookfunction(game.HttpGet, function(self, url)
   	return oldHttp(self, url)
 end)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/x0x37x/darkx-crack/refs/heads/main/obfuscated.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/singlebladez/pew/blob/main/lompa.lua"))()
